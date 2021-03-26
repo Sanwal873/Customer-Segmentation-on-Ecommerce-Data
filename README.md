@@ -1,1 +1,1 @@
-# Customer-Segmentation-on-Ecoomerce-Data
+# Customer-Segmentation-on-Ecommerce-Data
